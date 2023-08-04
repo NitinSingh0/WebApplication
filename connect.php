@@ -13,5 +13,10 @@ if (!$conn){
     die("Sorry we failed to connect: ". mysqli_connect_error());
 }
 else{
+<<<<<<< Updated upstream
+=======
+    echo ("TRYING01");
+    echo("hello")
+>>>>>>> Stashed changes
 }
 ?>
